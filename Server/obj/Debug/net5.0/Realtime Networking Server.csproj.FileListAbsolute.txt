@@ -1,0 +1,293 @@
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.exe
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.deps.json
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.json
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.dev.json
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\ref\Realtime Networking Server.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.AssemblyReference.cache
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfoInputs.cache
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfo.cs
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CoreCompileInputs.cache
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CopyComplete
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\ref\Realtime Networking Server.dll
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\Armin Ahmadi\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.genruntimeconfig.cache
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\ref\Realtime Networking Server.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.exe
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.deps.json
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.json
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.dev.json
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\ref\Realtime Networking Server.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfo.cs
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CopyComplete
+C:\Users\Armin\Desktop\Clash Of Whatever\Server\obj\Debug\net5.0\Realtime Networking Server.genruntimeconfig.cache
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\Realtime Networking Server.exe
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\Realtime Networking Server.deps.json
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.json
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.dev.json
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\Realtime Networking Server.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\ref\Realtime Networking Server.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\Realtime Networking Server.pdb
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\Google.Protobuf.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\MySql.Data.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\ZstdNet.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.csproj.AssemblyReference.cache
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfoInputs.cache
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfo.cs
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CoreCompileInputs.cache
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CopyComplete
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\ref\Realtime Networking Server.dll
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.pdb
+F:\AAAA\Unity Clash Of Clans Part 35\Part_35_Server\obj\Debug\net5.0\Realtime Networking Server.genruntimeconfig.cache
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.exe
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.deps.json
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.json
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.dev.json
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\ref\Realtime Networking Server.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfo.cs
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CopyComplete
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\ref\Realtime Networking Server.dll
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\Armin\Desktop\Unity Clash Of Clans Part 36\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.genruntimeconfig.cache
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.exe
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.deps.json
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.json
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.dev.json
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.csproj.AssemblyReference.cache
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfoInputs.cache
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfo.cs
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CoreCompileInputs.cache
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime.5667ADC5.Up2Date
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\refint\Realtime Networking Server.dll
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\Realtime Networking Server.genruntimeconfig.cache
+C:\Users\zenor\Desktop\ddd\Part_36_Server\obj\Debug\net5.0\ref\Realtime Networking Server.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\Realtime Networking Server.exe
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\Realtime Networking Server.deps.json
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.json
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.dev.json
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\Realtime Networking Server.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\Realtime Networking Server.pdb
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\MySql.Data.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\System.Text.Json.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\ZstdSharp.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Unity projects\Hackatons\-\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.AssemblyReference.cache
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfoInputs.cache
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfo.cs
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CoreCompileInputs.cache
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.sourcelink.json
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime.5667ADC5.Up2Date
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.dll
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\refint\Realtime Networking Server.dll
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.pdb
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\Realtime Networking Server.genruntimeconfig.cache
+C:\Unity projects\Hackatons\-\Server\obj\Debug\net5.0\ref\Realtime Networking Server.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\Realtime Networking Server.exe
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\Realtime Networking Server.deps.json
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.json
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\Realtime Networking Server.runtimeconfig.dev.json
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.AssemblyReference.cache
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfoInputs.cache
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.AssemblyInfo.cs
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.csproj.CoreCompileInputs.cache
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.sourcelink.json
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime.5667ADC5.Up2Date
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\refint\Realtime Networking Server.dll
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.pdb
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\Realtime Networking Server.genruntimeconfig.cache
+C:\Users\zenor\Desktop\GameFor\-\Server\obj\Debug\net5.0\ref\Realtime Networking Server.dll

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity projects\\Hackatons\\-\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|c:\\unity projects\\hackatons\\-\\server\\scripts\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|solutionrelative:scripts\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|c:\\unity projects\\hackatons\\-\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|c:\\unity projects\\hackatons\\-\\server\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Unity projects\\Hackatons\\-\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Unity projects\\Hackatons\\-\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:26:16.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Unity projects\\Hackatons\\-\\Server\\Scripts\\Database.cs",
+              "RelativeDocumentMoniker": "Scripts\\Database.cs",
+              "ToolTip": "C:\\Unity projects\\Hackatons\\-\\Server\\Scripts\\Database.cs",
+              "RelativeToolTip": "Scripts\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:22:18.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Unity projects\\Hackatons\\-\\Server\\Data.cs",
+              "RelativeDocumentMoniker": "Data.cs",
+              "ToolTip": "C:\\Unity projects\\Hackatons\\-\\Server\\Data.cs",
+              "RelativeToolTip": "Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:22:10.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
