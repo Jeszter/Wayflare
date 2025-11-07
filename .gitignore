@@ -5,4 +5,5 @@ Client/Build
 Client/Builds
 Client/UserSettings
 Client/logs
-Client/.vs
+Client/.vscode
+Client/Library/PackageCache
