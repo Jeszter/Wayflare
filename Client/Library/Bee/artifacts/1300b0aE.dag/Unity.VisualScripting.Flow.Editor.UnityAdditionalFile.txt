@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Unity projects\Hackatons\Wayflare\Client
+=======
+C:\Users\egoro\Downloads\Wayflare\Client
+>>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
