@@ -188,7 +188,6 @@ namespace DevelopersHub.ClashOfWhatecer
                             else if (results[i].gameObject == UI_BuildingOptions.instanse.clanButton.gameObject)
                             {
                                 //handled = true;
-                                UI_Clan.instanse.Open();
                             }
                             else if (results[i].gameObject == UI_BuildingOptions.instanse.spellButton.gameObject)
                             {
@@ -260,7 +259,7 @@ namespace DevelopersHub.ClashOfWhatecer
 
         private void MoveStarted()
         {
-            if ((UI_Main.instanse.isActive || UI_Battle.instanse.isActive || UI_WarLayout.instanse.isActive) && UI_Chat.instanse.isActive == false && UI_Settings.instanse.isActive == false)
+            if ((UI_Main.instanse.isActive || UI_Battle.instanse.isActive || UI_WarLayout.instanse.isActive) && UI_Settings.instanse.isActive == false)
             {
                 if (_building)
                 {
@@ -314,7 +313,7 @@ namespace DevelopersHub.ClashOfWhatecer
 
         private void ZoomStarted()
         {
-            if ((UI_Main.instanse.isActive || UI_Battle.instanse.isActive || UI_WarLayout.instanse.isActive) && UI_Chat.instanse.isActive == false && UI_Settings.instanse.isActive == false)
+            if ((UI_Main.instanse.isActive || UI_Battle.instanse.isActive || UI_WarLayout.instanse.isActive) && UI_Settings.instanse.isActive == false)
             {
                 _moveRootPosition = _root.position;
                 Vector2 touch0 = _inputs.Main.TouchPosition0.ReadValue<Vector2>();

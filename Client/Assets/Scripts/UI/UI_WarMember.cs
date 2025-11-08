@@ -26,10 +26,6 @@ namespace DevelopersHub.ClashOfWhatecer
         private void Start()
         {
             Button button = GetComponentInChildren<Button>();
-            if (button)
-            {
-                button.onClick.AddListener(Select);
-            }
         }
 
         public void Initialize(Data.ClanMember data, int attacksDone, Data.ClanWarAttack bestEnemyAttack)
@@ -55,10 +51,7 @@ namespace DevelopersHub.ClashOfWhatecer
             }
         }
 
-        private void Select()
-        {
-            UI_Clan.instanse.SelectWarMember(this);
-        }
+
 
     }
 }

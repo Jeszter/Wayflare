@@ -307,108 +307,6 @@ namespace DevelopersHub.ClashOfWhatecer
                         int frame = packet.ReadInt();
                         UI_Battle.instanse.BattleEnded(stars, unitsDeployed, lootedGold, lootedElixir, lootedDark, trophies, frame);
                         break;
-                    case RequestsID.OPENCLAN:
-                        bool haveClan = packet.ReadBool();
-                        Data.Clan clan = null;
-                        List<Data.ClanMember> warMembers = null;
-                        if (haveClan)
-                        {
-                            string clanData = packet.ReadString();
-                            clan = Data.Desrialize<Data.Clan>(clanData);
-                            if (clan.war != null && clan.war.id > 0)
-                            {
-                                string warData = packet.ReadString();
-                                warMembers = Data.Desrialize<List<Data.ClanMember>>(warData);
-                            }
-                        }
-                        UI_Clan.instanse.ClanOpen(clan, warMembers);
-                        break;
-                    case RequestsID.GETCLANS:
-                        string clansData = packet.ReadString();
-                        Data.ClansList clans = Data.Desrialize<Data.ClansList>(clansData);
-                        UI_Clan.instanse.ClansListOpen(clans);
-                        break;
-                    case RequestsID.CREATECLAN:
-                        response = packet.ReadInt();
-                        UI_Clan.instanse.CreateResponse(response);
-                        break;
-                    case RequestsID.JOINCLAN:
-                        response = packet.ReadInt();
-                        UI_Clan.instanse.JoinResponse(response);
-                        break;
-                    case RequestsID.LEAVECLAN:
-                        response = packet.ReadInt();
-                        UI_Clan.instanse.LeaveResponse(response);
-                        break;
-                    case RequestsID.EDITCLAN:
-                        response = packet.ReadInt();
-                        UI_Clan.instanse.EditResponse(response);
-                        break;
-                    case RequestsID.OPENWAR:
-                        string clanWarData = packet.ReadString();
-                        Data.ClanWarData war = Data.Desrialize<Data.ClanWarData>(clanWarData);
-                        UI_Clan.instanse.WarOpen(war);
-                        break;
-                    case RequestsID.STARTWAR:
-                        response = packet.ReadInt();
-                        UI_Clan.instanse.WarStartResponse(response);
-                        break;
-                    case RequestsID.CANCELWAR:
-                        response = packet.ReadInt();
-                        UI_Clan.instanse.WarSearchCancelResponse(response);
-                        break;
-                    case RequestsID.WARSTARTED:
-                        databaseID = packet.ReadInt();
-                        UI_Clan.instanse.WarStarted(databaseID);
-                        break;
-                    case RequestsID.WARATTACK:
-                        databaseID = packet.ReadLong();
-                        Data.OpponentData warOpponent = null;
-                        if (databaseID > 0)
-                        {
-                            string d = packet.ReadString();
-                            warOpponent = Data.Desrialize<Data.OpponentData>(d);
-                        }
-                        UI_Clan.instanse.AttackResponse(databaseID, warOpponent);
-                        break;
-                    case RequestsID.WARREPORTLIST:
-                        string warReportsData = packet.ReadString();
-                        List<Data.ClanWarData> warReports = Data.Desrialize<List<Data.ClanWarData>>(warReportsData);
-                        UI_Clan.instanse.OpenWarHistoryList(warReports);
-                        break;
-                    case RequestsID.WARREPORT:
-                        bool hasReport = packet.ReadBool();
-                        Data.ClanWarData warReport = null;
-                        if (hasReport)
-                        {
-                            string warReportData = packet.ReadString();
-                            warReport = Data.Desrialize<Data.ClanWarData>(warReportData);
-                        }
-                        UI_Clan.instanse.WarOpen(warReport, true);
-                        break;
-                    case RequestsID.JOINREQUESTS:
-                        string requstsData = packet.ReadString();
-                        List<Data.JoinRequest> requests = Data.Desrialize<List<Data.JoinRequest>>(requstsData);
-                        UI_Clan.instanse.OpenRequestsList(requests);
-                        break;
-                    case RequestsID.JOINRESPONSE:
-                        response = packet.ReadInt();
-                        if (UI_ClanJoinRequest.active != null)
-                        {
-                            UI_ClanJoinRequest.active.Response(response);
-                            UI_ClanJoinRequest.active = null;
-                        }
-                        break;
-                    case RequestsID.SENDCHAT:
-                        response = packet.ReadInt();
-                        UI_Chat.instanse.ChatSendResponse(response);
-                        break;
-                    case RequestsID.GETCHATS:
-                        string chatsData = packet.ReadString();
-                        List<Data.CharMessage> messages = Data.Desrialize<List<Data.CharMessage>>(chatsData);
-                        int chatType = packet.ReadInt();
-                        UI_Chat.instanse.ChatSynced(messages, (Data.ChatType)chatType);
-                        break;
                     case RequestsID.EMAILCODE:
                         response = packet.ReadInt();
                         int expTime = packet.ReadInt();
@@ -418,22 +316,6 @@ namespace DevelopersHub.ClashOfWhatecer
                         response = packet.ReadInt();
                         string confEmail = packet.ReadString();
                         UI_Settings.instanse.EmailConfirmResponse(response, confEmail);
-                        break;
-                    case RequestsID.KICKMEMBER:
-                        databaseID = packet.ReadLong();
-                        response = packet.ReadInt();
-                        if (response == -1)
-                        {
-                            string kicker = packet.ReadString();
-                            if (UI_Clan.instanse.isActive)
-                            {
-                                UI_Clan.instanse.Close();
-                            }
-                        }
-                        else
-                        {
-                            UI_Clan.instanse.kickResponse(databaseID, response);
-                        }
                         break;
                     case RequestsID.BREW:
                         response = packet.ReadInt();

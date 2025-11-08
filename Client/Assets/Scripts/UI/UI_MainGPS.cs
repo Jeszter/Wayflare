@@ -15,7 +15,6 @@ namespace DevelopersHub.ClashOfWhatecer
         [SerializeField] public TextMeshProUGUI _gemsText = null;
 
         [SerializeField] private Button _battleButton = null;
-        [SerializeField] private Button _chatButton = null;
         [SerializeField] private Button _settingsButton = null;
         [SerializeField] public TextMeshProUGUI _usernameText = null;
         [SerializeField] public TextMeshProUGUI _trophiesText = null;
@@ -43,7 +42,6 @@ namespace DevelopersHub.ClashOfWhatecer
         private void Start()
         {
             _battleButton.onClick.AddListener(BattleButtonClicked);
-            _chatButton.onClick.AddListener(ChatButtonClicked);
             _settingsButton.onClick.AddListener(SettingsButtonClicked);
         }
 
@@ -53,10 +51,7 @@ namespace DevelopersHub.ClashOfWhatecer
         }
 
 
-        private void ChatButtonClicked()
-        {
-            UI_Chat.instanse.Open();
-        }
+
 
         private void BattleButtonClicked()
         {
