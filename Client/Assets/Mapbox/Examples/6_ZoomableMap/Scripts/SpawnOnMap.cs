@@ -25,8 +25,11 @@
 
 		List<GameObject> _spawnedObjects;
 
+		[SerializeField] GameObject parent = null;
+
 		void Start()
 		{
+			parent = GameObject.Find("GPS_Part");
 			_locations = new Vector2d[_locationStrings.Length];
 			_spawnedObjects = new List<GameObject>();
 			for (int i = 0; i < _locationStrings.Length; i++)
@@ -37,6 +40,7 @@
 				instance.GetComponent<EventPointer>().eventPos = _locations[i];
 				instance.transform.localPosition = _map.GeoToWorldPosition(_locations[i], true);
 				instance.transform.localScale = new Vector3(_spawnScale, _spawnScale, _spawnScale);
+				instance.transform.parent = parent.transform;
 				_spawnedObjects.Add(instance);
 			}
 		}

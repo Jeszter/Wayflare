@@ -11,13 +11,16 @@ using UnityEngine.SceneManagement;
     public class UI_Search : MonoBehaviour
     {
 
-        [SerializeField] private GameObject _elements = null;
+        [SerializeField]private GameObject _elements = null;
         [SerializeField] private Button _closeButton = null;
         [SerializeField] private Button _findButton = null;
+        [SerializeField] GameObject gps = null;
+        [SerializeField] GameObject game = null;
 
         private static UI_Search _instance = null; public static UI_Search instanse { get { return _instance; } }
         private bool _active = true; public bool isActive { get { return _active; } }
         private long lastTarget = 0;
+        private bool gameActive = false;
 
         private void Awake()
         {
@@ -55,9 +58,14 @@ using UnityEngine.SceneManagement;
         }*/
 
         public void Find()
-{
-    SceneManager.LoadScene("GPSScene");
-}
+        {
+            gameActive = !gameActive;
+            _active = false;
+            _elements.SetActive(false);
+            gps.SetActive(gameActive);
+            game.SetActive(!gameActive);
+           // SceneManager.LoadScene("GPSScene");
+        }
 
         public void FindResponded(long target, Data.OpponentData opponent)
         {

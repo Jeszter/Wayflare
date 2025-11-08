@@ -42,6 +42,10 @@ namespace DevelopersHub.ClashOfWhatecer
         private int _originalX = 0;
         private int _originalY = 0;
 
+        private void Start()
+        {
+            this.gameObject.transform.parent = GameObject.Find("Game_Part").transform;
+        }
         private void OnDestroy()
         {
             if (buildBar)

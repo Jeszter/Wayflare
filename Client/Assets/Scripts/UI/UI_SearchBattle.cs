@@ -14,6 +14,8 @@ using UnityEngine.SceneManagement;
         [SerializeField] private GameObject _elements = null;
         [SerializeField] private Button _closeButton = null;
         [SerializeField] private Button _findButton = null;
+        [SerializeField] GameObject gps = null;
+        [SerializeField] GameObject game = null;
 
         private static UI_SearchBattle _instance = null; public static UI_SearchBattle instanse { get { return _instance; } }
         private bool _active = true; public bool isActive { get { return _active; } }
@@ -48,9 +50,13 @@ using UnityEngine.SceneManagement;
         }
 
         public void Find()
-{
-    SceneManager.LoadScene("Start");
-}
+        {
+            _active = false;
+            _elements.SetActive(false);
+            game.SetActive(true);
+            gps.SetActive(false);
+           // SceneManager.LoadScene("GPSScene");
+        }
 
 
         public void FindResponded(long target, Data.OpponentData opponent)

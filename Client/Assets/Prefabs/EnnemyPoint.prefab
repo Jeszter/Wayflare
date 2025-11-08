@@ -139,6 +139,8 @@ MonoBehaviour:
   rotation: 50
   amplitude: 2
   frequency: 0.5
+  parent: {fileID: 0}
+  itself: {fileID: 4906059035958804546}
   resourseID: 3
   eventPos:
     x: 0

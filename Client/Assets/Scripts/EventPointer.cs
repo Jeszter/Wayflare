@@ -8,6 +8,7 @@ public class EventPointer : MonoBehaviour
     [SerializeField] float rotation = 50f;
     [SerializeField] float amplitude = 2f;
     [SerializeField] float frequency = 0.5f;
+    
 
     [SerializeField] private ResourceID resourseID;
     LocationStatus playerLocation;
