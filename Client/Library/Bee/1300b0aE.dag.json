@@ -518,13 +518,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
-<<<<<<< HEAD
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -539,11 +534,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 243,
-=======
-      "PayloadOffset": 240,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 53941,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -560,15 +551,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 54278,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 54275,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -4208,11 +4193,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 54437,
-=======
-      "PayloadOffset": 54431,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 10454,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4616,15 +4597,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 64996,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 64990,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -4639,11 +4614,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 65124,
-=======
-      "PayloadOffset": 65115,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 46539,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -4660,15 +4631,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 111749,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 111740,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -5643,11 +5608,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 111900,
-=======
-      "PayloadOffset": 111888,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11340,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6081,15 +6042,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 123353,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 123341,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -6104,11 +6059,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 123489,
-=======
-      "PayloadOffset": 123474,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 67544,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -6125,15 +6076,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 191127,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 191112,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -7322,11 +7267,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 191286,
-=======
-      "PayloadOffset": 191268,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11318,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7760,15 +7701,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 202709,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 202691,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -7783,11 +7718,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 202837,
-=======
-      "PayloadOffset": 202816,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 43337,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -7804,15 +7735,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 246260,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 246239,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -8552,11 +8477,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 246411,
-=======
-      "PayloadOffset": 246387,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12016,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9014,15 +8935,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.2D.Sprite.AIIntegration.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.Sprite.AIIntegration.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 258554,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 258530,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -9037,11 +8952,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.2D.Sprite.AIIntegration.Editor.rsp",
       "DisplayName": "Writing Unity.2D.Sprite.AIIntegration.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 258704,
-=======
-      "PayloadOffset": 258677,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40001,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -9058,15 +8969,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.2D.Sprite.AIIntegration.Editor.rsp2",
       "DisplayName": "Writing Unity.2D.Sprite.AIIntegration.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 298813,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 298786,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -9711,11 +9616,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.2D.Sprite.AIIntegration.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.Sprite.AIIntegration.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 298986,
-=======
-      "PayloadOffset": 298956,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12092,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10176,15 +10077,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.2D.Sprite.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.Sprite.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 311191,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 311161,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -10199,11 +10094,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.2D.Sprite.Editor.rsp",
       "DisplayName": "Writing Unity.2D.Sprite.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 311327,
-=======
-      "PayloadOffset": 311294,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 45666,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -10220,15 +10111,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.2D.Sprite.Editor.rsp2",
       "DisplayName": "Writing Unity.2D.Sprite.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 357087,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 357054,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -10951,11 +10836,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.2D.Sprite.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.Sprite.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 357246,
-=======
-      "PayloadOffset": 357210,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12092,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11416,15 +11297,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 369472,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 369436,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -11439,11 +11314,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 369629,
-=======
-      "PayloadOffset": 369590,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40885,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -11460,15 +11331,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 410629,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 410590,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -12105,11 +11970,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 410809,
-=======
-      "PayloadOffset": 410767,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12092,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12570,15 +12431,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 423011,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 422969,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -12593,11 +12448,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 423144,
-=======
-      "PayloadOffset": 423099,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 38760,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -12614,15 +12465,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 461995,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 461950,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -13231,11 +13076,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 462151,
-=======
-      "PayloadOffset": 462103,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11492,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13675,15 +13516,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 473763,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 473715,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -13698,11 +13533,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 473906,
-=======
-      "PayloadOffset": 473855,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40269,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -13719,15 +13550,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 514276,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 514225,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -14354,11 +14179,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 514442,
-=======
-      "PayloadOffset": 514388,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12092,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14819,15 +14640,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.InputSystem.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 526642,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 526588,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -14842,11 +14657,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.rsp",
       "DisplayName": "Writing Unity.InputSystem.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 526773,
-=======
-      "PayloadOffset": 526716,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 82020,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -14863,15 +14674,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.rsp2",
       "DisplayName": "Writing Unity.InputSystem.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 608882,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 608825,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -16270,11 +16075,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.InputSystem.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 609036,
-=======
-      "PayloadOffset": 608976,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11492,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -16714,15 +16515,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Common.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Multiplayer.Center.Common.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 620650,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 620590,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -16737,11 +16532,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Common.rsp",
       "DisplayName": "Writing Unity.Multiplayer.Center.Common.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 620795,
-=======
-      "PayloadOffset": 620732,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 38718,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -16758,15 +16549,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Common.rsp2",
       "DisplayName": "Writing Unity.Multiplayer.Center.Common.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 659616,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 659553,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -17373,11 +17158,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Common.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Multiplayer.Center.Common.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 659784,
-=======
-      "PayloadOffset": 659718,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11492,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17817,15 +17598,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 671408,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 671342,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -17840,11 +17615,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 671563,
-=======
-      "PayloadOffset": 671494,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 43216,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -17861,15 +17632,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 714892,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 714823,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -18554,11 +18319,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 715070,
-=======
-      "PayloadOffset": 714998,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12092,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -19019,15 +18780,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 727276,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 727204,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -19042,11 +18797,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 727413,
-=======
-      "PayloadOffset": 727338,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 84236,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -19063,15 +18814,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 811744,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 811669,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -20546,11 +20291,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 811904,
-=======
-      "PayloadOffset": 811826,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11641,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20996,15 +20737,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 823654,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 823576,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -21019,11 +20754,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 823786,
-=======
-      "PayloadOffset": 823705,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 42274,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -21040,15 +20771,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 866150,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 866069,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -21719,11 +21444,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 866305,
-=======
-      "PayloadOffset": 866221,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11554,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -22166,15 +21887,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 877971,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 877887,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -22189,11 +21904,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 878106,
-=======
-      "PayloadOffset": 878019,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 41039,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -22210,15 +21921,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 919238,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 919151,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -22863,11 +22568,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 919396,
-=======
-      "PayloadOffset": 919306,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12092,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -23328,15 +23029,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 931630,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 931540,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -23351,11 +23046,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 931795,
-=======
-      "PayloadOffset": 931702,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 41812,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -23372,15 +23063,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 973730,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 973637,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -24029,11 +23714,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 973918,
-=======
-      "PayloadOffset": 973822,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12092,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -24494,15 +24175,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 986162,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 986066,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -24517,11 +24192,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 986337,
-=======
-      "PayloadOffset": 986238,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40519,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -24538,15 +24209,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1026989,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1026890,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -25173,11 +24838,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1027187,
-=======
-      "PayloadOffset": 1027085,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12092,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -25638,15 +25299,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1039387,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1039285,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -25661,11 +25316,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1039518,
-=======
-      "PayloadOffset": 1039413,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 43292,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -25682,15 +25333,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1082899,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1082794,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -26407,11 +26052,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1083053,
-=======
-      "PayloadOffset": 1082945,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11492,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -26851,15 +26492,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1094650,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1094542,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -26874,11 +26509,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1094778,
-=======
-      "PayloadOffset": 1094667,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 45138,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -26895,15 +26526,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1140002,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1139891,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -27650,11 +27275,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1140153,
-=======
-      "PayloadOffset": 1140039,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11492,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -28094,15 +27715,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1151761,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1151647,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -28117,11 +27732,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1151900,
-=======
-      "PayloadOffset": 1151783,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 42621,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -28138,15 +27749,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1194618,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1194501,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -28827,11 +28432,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1194780,
-=======
-      "PayloadOffset": 1194660,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11554,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -29274,15 +28875,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1206451,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1206331,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -29297,11 +28892,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1206591,
-=======
-      "PayloadOffset": 1206468,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40972,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -29318,15 +28909,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1247661,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1247538,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -30019,11 +29604,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1247824,
-=======
-      "PayloadOffset": 1247698,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12278,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -30490,15 +30071,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1260217,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1260091,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -30513,11 +30088,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1260355,
-=======
-      "PayloadOffset": 1260226,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40226,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -30534,15 +30105,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1300677,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1300548,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -31194,11 +30759,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1300838,
-=======
-      "PayloadOffset": 1300706,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12177,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -31662,15 +31223,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.DocCodeSamples.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.InputSystem.DocCodeSamples.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1313138,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1313006,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -31685,11 +31240,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.DocCodeSamples.rsp",
       "DisplayName": "Writing Unity.InputSystem.DocCodeSamples.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1313284,
-=======
-      "PayloadOffset": 1313149,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 38426,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -31706,15 +31257,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.DocCodeSamples.rsp2",
       "DisplayName": "Writing Unity.InputSystem.DocCodeSamples.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1351814,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1351679,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -32332,11 +31877,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.DocCodeSamples.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.InputSystem.DocCodeSamples.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1351983,
-=======
-      "PayloadOffset": 1351845,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11633,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -32782,15 +32323,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.InputSystem.ForUI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1363730,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1363592,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -32805,11 +32340,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.rsp",
       "DisplayName": "Writing Unity.InputSystem.ForUI.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1363867,
-=======
-      "PayloadOffset": 1363726,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 38534,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -32826,15 +32357,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.rsp2",
       "DisplayName": "Writing Unity.InputSystem.ForUI.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1402496,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1402355,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -33438,11 +32963,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ForUI.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.InputSystem.ForUI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1402656,
-=======
-      "PayloadOffset": 1402512,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11571,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -33885,15 +33406,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.TestFramework.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.InputSystem.TestFramework.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1414349,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1414205,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -33908,11 +33423,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.TestFramework.rsp",
       "DisplayName": "Writing Unity.InputSystem.TestFramework.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1414494,
-=======
-      "PayloadOffset": 1414347,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 36718,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -33929,15 +33440,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.TestFramework.rsp2",
       "DisplayName": "Writing Unity.InputSystem.TestFramework.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1451315,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1451168,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -34513,11 +34018,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.TestFramework.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.InputSystem.TestFramework.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1451483,
-=======
-      "PayloadOffset": 1451333,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 10853,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -34936,15 +34437,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Multiplayer.Center.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1462458,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1462308,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -34959,11 +34454,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Editor.rsp",
       "DisplayName": "Writing Unity.Multiplayer.Center.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1462603,
-=======
-      "PayloadOffset": 1462450,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 44534,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -34980,15 +34471,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Editor.rsp2",
       "DisplayName": "Writing Unity.Multiplayer.Center.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1507240,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1507087,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -35714,11 +35199,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Multiplayer.Center.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1507408,
-=======
-      "PayloadOffset": 1507252,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12185,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -36182,15 +35663,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.Entities.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.Entities.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1519716,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1519560,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -36205,11 +35680,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.Entities.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.Entities.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1519862,
-=======
-      "PayloadOffset": 1519703,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40171,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -36226,15 +35697,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.Entities.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.Entities.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1560137,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1559978,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -36860,11 +36325,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.Entities.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.Entities.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1560306,
-=======
-      "PayloadOffset": 1560144,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12177,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -37328,15 +36789,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1572609,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1572447,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -37351,11 +36806,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1572758,
-=======
-      "PayloadOffset": 1572593,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 43871,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -37372,15 +36823,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1616736,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1616571,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -38146,11 +37591,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1616908,
-=======
-      "PayloadOffset": 1616740,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11873,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -38602,15 +38043,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1628896,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1628728,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -38625,11 +38060,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1629034,
-=======
-      "PayloadOffset": 1628863,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 45102,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -38646,15 +38077,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1674232,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1674061,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -39410,11 +38835,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1674393,
-=======
-      "PayloadOffset": 1674219,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12171,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -39878,15 +39299,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1686676,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1686502,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -39901,11 +39316,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1686811,
-=======
-      "PayloadOffset": 1686634,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 66064,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -39922,15 +39333,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1752968,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1752791,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -41124,11 +40529,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1753126,
-=======
-      "PayloadOffset": 1752946,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12168,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -41592,15 +40993,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1765411,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1765231,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -41615,11 +41010,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1765551,
-=======
-      "PayloadOffset": 1765368,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 95013,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -41636,15 +41027,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1860662,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1860479,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -43100,11 +42485,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1860825,
-=======
-      "PayloadOffset": 1860639,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11571,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -43547,15 +42928,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Updater.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1872514,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1872328,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -43570,11 +42945,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Updater.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1872655,
-=======
-      "PayloadOffset": 1872466,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40818,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -43591,15 +42962,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Updater.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1913572,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 1913383,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -44265,11 +43630,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.AI.Navigation.Updater.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1913736,
-=======
-      "PayloadOffset": 1913544,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12366,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -44739,15 +44100,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1926226,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 1926034,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -44762,11 +44117,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1926373,
-=======
-      "PayloadOffset": 1926178,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 99728,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -44783,15 +44134,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2026206,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 2026011,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -46377,11 +45722,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2026376,
-=======
-      "PayloadOffset": 2026178,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12180,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -46845,15 +46186,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2038673,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 2038475,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -46868,11 +46203,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2038813,
-=======
-      "PayloadOffset": 2038612,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 90178,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -46889,15 +46220,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2129089,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 2128888,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -48302,11 +47627,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2129252,
-=======
-      "PayloadOffset": 2129048,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11659,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -48752,15 +48073,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2141035,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 2140831,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -48775,11 +48090,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2141182,
-=======
-      "PayloadOffset": 2140975,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 61632,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -48796,15 +48107,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2202919,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 2202712,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -49821,11 +49126,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2203089,
-=======
-      "PayloadOffset": 2202879,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12442,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -50298,15 +49599,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2215649,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 2215439,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -50321,11 +49616,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2215790,
-=======
-      "PayloadOffset": 2215577,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 41756,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -50342,15 +49633,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2257645,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 2257432,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -51013,11 +50298,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2257809,
-=======
-      "PayloadOffset": 2257593,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 11668,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -51463,15 +50744,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2269613,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 2269397,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -51486,11 +50761,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2269772,
-=======
-      "PayloadOffset": 2269553,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 41697,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -51507,15 +50778,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2311586,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 2311367,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -52219,11 +51484,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2311768,
-=======
-      "PayloadOffset": 2311546,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12547,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -52699,15 +51960,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2324440,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 2324218,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -52722,11 +51977,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2324588,
-=======
-      "PayloadOffset": 2324363,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 48746,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -52743,15 +51994,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2373440,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 2373215,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -53521,11 +52766,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2373611,
-=======
-      "PayloadOffset": 2373383,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12547,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -54001,15 +53242,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2386284,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 2386056,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -54024,11 +53259,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2386433,
-=======
-      "PayloadOffset": 2386202,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 40489,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -54045,15 +53276,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2427029,
       "PayloadLength": 56,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity projects\\Ha",
-=======
-      "PayloadOffset": 2426798,
-      "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\egoro\\Downl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -54716,11 +53941,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2427201,
-=======
-      "PayloadOffset": 2426967,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 12643,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -55199,15 +54420,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2439950,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 2439716,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -55222,11 +54437,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2440079,
-=======
-      "PayloadOffset": 2439842,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 67444,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -55243,11 +54454,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2507610,
-=======
-      "PayloadOffset": 2507373,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -57170,11 +56377,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2507706,
-=======
-      "PayloadOffset": 2507469,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 13536,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -57680,15 +56883,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2521355,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "C:\\Unity projects\\Hackatons\\Wa",
-=======
-      "PayloadOffset": 2521118,
-      "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "C:\\Users\\egoro\\Downloads\\Wayfl",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -57703,11 +56900,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2521491,
-=======
-      "PayloadOffset": 2521251,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 49182,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -57724,11 +56917,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp2",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2570767,
-=======
-      "PayloadOffset": 2570527,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -58630,11 +57819,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 2570870,
-=======
-      "PayloadOffset": 2570630,
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "PayloadLength": 14928,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -60909,11 +60094,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "Extracting script serialization layouts",
-<<<<<<< HEAD
       "Action": "\"C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\MapboxAccounts\\net35\\MapboxAccountsUnity.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\\Mapbox.VectorTile.ExtensionMethods.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\\Mapbox.VectorTile.Geometry.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\\Mapbox.VectorTile.PbfReader.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\\Mapbox.VectorTile.VectorTileReader.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\ThirdParty\\Mapbox.IO.Compression\\net35\\Mapbox.IO.Compression.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\ThirdParty\\Mapbox.Json\\Net35\\Mapbox.Json.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.Multiplayer.Center.Common.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff\\net40\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\PackageCache\\com.unity.testtools.codecoverage@205a02cbcb39\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\PackageCache\\com.unity.visualscripting@6279e2b7c485\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\MapboxAccounts\\net35\" -s=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\" -s=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\ThirdParty\\Mapbox.IO.Compression\\net35\" -s=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\ThirdParty\\Mapbox.Json\\Net35\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\ScriptAssemblies\" -s=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff\\net40\\unity-custom\" -s=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\PackageCache\\com.unity.testtools.codecoverage@205a02cbcb39\\lib\\ReportGenerator\" -s=\"C:\\Unity projects\\Hackatons\\Wayflare\\Client\\Library\\PackageCache\\com.unity.visualscripting@6279e2b7c485\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
-=======
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\MapboxAccounts\\net35\\MapboxAccountsUnity.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\\Mapbox.VectorTile.ExtensionMethods.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\\Mapbox.VectorTile.Geometry.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\\Mapbox.VectorTile.PbfReader.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\\Mapbox.VectorTile.VectorTileReader.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\ThirdParty\\Mapbox.IO.Compression\\net35\\Mapbox.IO.Compression.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\ThirdParty\\Mapbox.Json\\Net35\\Mapbox.Json.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.Multiplayer.Center.Common.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff\\net40\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\PackageCache\\com.unity.testtools.codecoverage@205a02cbcb39\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\PackageCache\\com.unity.visualscripting@6279e2b7c485\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\MapboxAccounts\\net35\" -s=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\Mapbox\\vector-tile-cs\\net46\" -s=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\ThirdParty\\Mapbox.IO.Compression\\net35\" -s=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Assets\\Mapbox\\Core\\Plugins\\ThirdParty\\Mapbox.Json\\Net35\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.8f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff\\net40\\unity-custom\" -s=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\PackageCache\\com.unity.testtools.codecoverage@205a02cbcb39\\lib\\ReportGenerator\" -s=\"C:\\Users\\egoro\\Downloads\\Wayflare\\Client\\Library\\PackageCache\\com.unity.visualscripting@6279e2b7c485\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -61308,10 +60489,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1300b0aE.dag.json",
-<<<<<<< HEAD
   "PayloadsFile": "C:/Unity projects/Hackatons/Wayflare/Client/Library/Bee/1300b0aE.dag.payloads",
-=======
-  "PayloadsFile": "C:/Users/egoro/Downloads/Wayflare/Client/Library/Bee/1300b0aE.dag.payloads",
->>>>>>> c69c2d39d32347d901549b303407508ebeda9f56
   "RelativePathToRoot": "../.."
 }
