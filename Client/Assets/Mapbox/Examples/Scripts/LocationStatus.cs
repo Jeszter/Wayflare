@@ -13,6 +13,8 @@
 		[SerializeField]
 		Text _statusText;
 
+		Location currLoc;
+
 		private AbstractLocationProvider _locationProvider = null;
 		void Start()
 		{
@@ -25,7 +27,7 @@
 
 		void Update()
 		{
-			Location currLoc = _locationProvider.CurrentLocation;
+			currLoc = _locationProvider.CurrentLocation;
 
 			if (currLoc.IsLocationServiceInitializing)
 			{
@@ -51,5 +53,16 @@
 			}
 
 		}
+
+
+		public double GetLocationLat()
+		{
+			return currLoc.LatitudeLongitude.x;
+		}
+
+		public double GetLocationLon()
+        {
+			return currLoc.LatitudeLongitude.y;
+        }
 	}
 }

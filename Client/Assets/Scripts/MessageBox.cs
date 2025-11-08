@@ -74,8 +74,6 @@ namespace DevelopersHub.ClashOfWhatecer
             _instance.OpenLayout(index, backgroundAlpha, cabBeClosedByBackgroundClick, callback, texts, buttons, images, inputs);
         }
 
-
-
         private void OpenLayout(int index, float backgroundAlpha = 0.8f, bool cabBeClosedByBackgroundClick = true, MessageButtonCallback callback = null, string[] texts = null, string[] buttons = null, Sprite[] images = null, string[] inputs = null)
         {
             if (_elements == null || index < 0 || index >= _layouts.Length)
@@ -101,11 +99,11 @@ namespace DevelopersHub.ClashOfWhatecer
                     if (index == i)
                     {
                         _layout = i;
-                        if (_layouts[i].panel != null)
+                        if(_layouts[i].panel != null)
                         {
                             _layouts[i].panel.SetActive(true);
                         }
-
+                       
                         if (_layouts[i].texts != null && _layouts[i].texts.Length > 0 && texts != null && texts.Length > 0)
                         {
                             for (int j = 0; j < Mathf.Min(_layouts[i].texts.Length, texts.Length); j++)
