@@ -263,7 +263,7 @@ Transform:
   m_GameObject: {fileID: 132193577}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.03986, y: 0, z: 14}
+  m_LocalPosition: {x: 10.03986, y: 0, z: -19.8354}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -279,7 +279,6 @@ GameObject:
   m_Component:
   - component: {fileID: 137357534}
   - component: {fileID: 137357533}
-  - component: {fileID: 137357535}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -367,29 +366,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!114 &137357535
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 137357532}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 3
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_RenderingLayers: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_ShadowRenderingLayers: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
 --- !u!1 &221027731
 GameObject:
   m_ObjectHideFlags: 0
@@ -2055,7 +2031,7 @@ Transform:
   m_GameObject: {fileID: 617544428}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.03986, y: 0, z: 15}
+  m_LocalPosition: {x: 10.03986, y: 0, z: -19.8354}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2760,7 +2736,7 @@ Transform:
   m_GameObject: {fileID: 693602449}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.03986, y: 0, z: 16.5}
+  m_LocalPosition: {x: 10.03986, y: 0, z: -19.8354}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4427,6 +4403,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcf32ea2cc0514b569329f6b6b68f9b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Mapbox.Examples.SpawnOnMap
+  _map: {fileID: 1406912194}
+  _locationStrings:
+  - 48.7321914658183, 21.245884072973723
+  - 48.73019365927906, 21.24537476503739
+  - 48.729817034508365, 21.246299686408804
+  _spawnScale: 5
+  _markerPrefab: {fileID: 4906059035958804546, guid: b3b45dd4302bda14fb934d3c85bf54df, type: 3}
 --- !u!4 &1313550152
 Transform:
   m_ObjectHideFlags: 0

@@ -42,10 +42,6 @@ namespace GeoCoordinatePortable
         /// <summary>
         ///     Initializes a new instance of the GeoCoordinate class from latitude, longitude, and altitude data.
         /// </summary>
-        /// <param name="latitude">Latitude. May range from -90.0 to 90.0.</param>
-        /// <param name="longitude">Longitude. May range from -180.0 to 180.0</param>
-        /// <param name="altitude">The altitude in meters. May be negative, 0, positive, or Double.NaN, if unknown.</param>
-        /// <exception cref="T:System.ArgumentOutOfRangeException">
         ///     latitude, longitude or altitude is out of range.
         /// </exception>
         public GeoCoordinate(double latitude, double longitude, double altitude)
@@ -57,25 +53,7 @@ namespace GeoCoordinatePortable
         ///     Initializes a new instance of the GeoCoordinate class from latitude, longitude, altitude, horizontal accuracy,
         ///     vertical accuracy, speed, and course.
         /// </summary>
-        /// <param name="latitude">The latitude of the location. May range from -90.0 to 90.0.</param>
-        /// <param name="longitude">The longitude of the location. May range from -180.0 to 180.0.</param>
-        /// <param name="altitude">The altitude in meters. May be negative, 0, positive, or Double.NaN, if unknown.</param>
-        /// <param name="horizontalAccuracy">
-        ///     The accuracy of the latitude and longitude coordinates, in meters. Must be greater
-        ///     than or equal to 0. If a value of 0 is supplied to this constructor, the HorizontalAccuracy property will be set to
-        ///     Double.NaN.
-        /// </param>
-        /// <param name="verticalAccuracy">
-        ///     The accuracy of the altitude, in meters. Must be greater than or equal to 0. If a value
-        ///     of 0 is supplied to this constructor, the VerticalAccuracy property will be set to Double.NaN.
-        /// </param>
-        /// <param name="speed">
-        ///     The speed measured in meters per second. May be negative, 0, positive, or Double.NaN, if unknown.
-        ///     A negative speed can indicate moving in reverse.
-        /// </param>
-        /// <param name="course">
-        ///     The direction of travel, rather than orientation. This parameter is measured in degrees relative
-        ///     to true north. Must range from 0 to 360.0, or be Double.NaN.
+              ///     to true north. Must range from 0 to 360.0, or be Double.NaN.
         /// </param>
         /// <exception cref="T:System.ArgumentOutOfRangeException">
         ///     If latitude, longitude, horizontalAccuracy, verticalAccuracy, course is out of range.

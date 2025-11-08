@@ -132,13 +132,14 @@
     <Compile Include="Assets\Mapbox\Unity\MeshGeneration\Data\KdTree\KDTree.cs" />
     <Compile Include="Assets\Mapbox\Unity\Location\UnityLocationWrappers\IMapboxLocationService.cs" />
     <Compile Include="Assets\Mapbox\Examples\Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\Tools.cs" />
     <Compile Include="Assets\Mapbox\Unity\Telemetry\TelemetryFactory.cs" />
     <Compile Include="Assets\Mapbox\Examples\Scripts\MakiHelper.cs" />
     <Compile Include="Assets\Mapbox\Unity\MeshGeneration\Modifiers\MeshModifier.cs" />
     <Compile Include="Assets\Mapbox\Core\mapbox-sdk-cs\Tokens\MapboxTokenApi.cs" />
     <Compile Include="Assets\Mapbox\Unity\DataContainers\ElevationModificationOptions.cs" />
-    <Compile Include="Assets\Mapbox\Unity\SourceLayers\ISubLayerFantasyStyle.cs" />
     <Compile Include="Assets\Scripts\UI\UI_Building.cs" />
+    <Compile Include="Assets\Mapbox\Unity\SourceLayers\ISubLayerFantasyStyle.cs" />
     <Compile Include="Assets\Mapbox\Unity\Location\UnityLocationWrappers\MapboxLocationInfoUnityWrapper.cs" />
     <Compile Include="Assets\Mapbox\Unity\DataContainers\ElevationRequiredOptions.cs" />
     <Compile Include="Assets\Mapbox\Core\probe-extractor-cs\ProbeExtractor.cs" />
@@ -153,6 +154,7 @@
     <Compile Include="Assets\Mapbox\Core\mapbox-sdk-cs\Geocoding\Response\Geometry.cs" />
     <Compile Include="Assets\Scripts\UI\UI_Chat.cs" />
     <Compile Include="Assets\Scripts\UI\UI_Shop.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\RealtimeNetworking.cs" />
     <Compile Include="Assets\Scripts\EventPointer.cs" />
     <Compile Include="Assets\Scripts\UI\UI_Unit.cs" />
     <Compile Include="Assets\Scripts\AStarPathfinding\IGrid.cs" />
@@ -238,9 +240,11 @@
     <Compile Include="Assets\Mapbox\Core\mapbox-sdk-cs\Directions\Response\Annotation.cs" />
     <Compile Include="Assets\Mapbox\Unity\MeshGeneration\Modifiers\MeshGenerationBase.cs" />
     <Compile Include="Assets\Mapbox\Examples\Scripts\CameraBillboard.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\Demo.cs" />
     <Compile Include="Assets\Mapbox\Unity\DataContainers\LayerSourceOptions.cs" />
     <Compile Include="Assets\Mapbox\Unity\SourceLayers\ISubLayerStyle.cs" />
     <Compile Include="Assets\Mapbox\Unity\DataContainers\TileStatsFetcher.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\Sender.cs" />
     <Compile Include="Assets\Mapbox\Unity\Map\Interfaces\IMapScalingStrategy.cs" />
     <Compile Include="Assets\Mapbox\Examples\1_DataExplorer\HighlightBuildings.cs" />
     <Compile Include="Assets\Mapbox\Core\mapbox-sdk-cs\Map\TileResource.cs" />
@@ -330,7 +334,10 @@
     <Compile Include="Assets\Mapbox\Core\mapbox-sdk-cs\Map\MapUtils.cs" />
     <Compile Include="Assets\Mapbox\Unity\Location\EditorLocationProvider.cs" />
     <Compile Include="Assets\Mapbox\Unity\MeshGeneration\Data\VectorFeatureUnity.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\Threading.cs" />
     <Compile Include="Assets\Mapbox\Core\mapbox-sdk-cs\Map\TileErrorEventArgs.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\Packet.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\Receiver.cs" />
     <Compile Include="Assets\Mapbox\Unity\DataContainers\MapPlacementOptions.cs" />
     <Compile Include="Assets\Mapbox\Unity\MeshGeneration\Modifiers\GameObjectModifiers\NoiseOffsetModifier.cs" />
     <Compile Include="Assets\Scripts\UI\UI_MainGPS.cs" />
@@ -381,6 +388,7 @@
     <Compile Include="Assets\Mapbox\Unity\Location\UnityLocationWrappers\MapboxLocationServiceMock.cs" />
     <Compile Include="Assets\Mapbox\Unity\DataContainers\RangeTileProviderOptions.cs" />
     <Compile Include="Assets\Mapbox\Unity\MeshGeneration\Modifiers\GameObjectModifiers\AddMonoBehavioursModifier.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\Settings.cs" />
     <Compile Include="Assets\Mapbox\Unity\SourceLayers\SubLayerCustomStyleAtlasWithColorPallete.cs" />
     <Compile Include="Assets\Mapbox\Unity\SourceLayers\SubLayerFantasyStyle.cs" />
     <Compile Include="Assets\Mapbox\Examples\3_POIPlacement\POIPlacementScriptExample.cs" />
@@ -402,6 +410,7 @@
     <Compile Include="Assets\Mapbox\Unity\Location\AngleSmoothing\AngleSmoothingAbstractBase.cs" />
     <Compile Include="Assets\Mapbox\Core\mapbox-sdk-cs\Utils\JsonConverters\BboxToGeoCoordinateBoundsConverter.cs" />
     <Compile Include="Assets\Mapbox\Examples\6_ZoomableMap\Scripts\SpawnOnMap.cs" />
+    <Compile Include="Assets\DevelopersHub\RealtimeNetworking\Scripts\Client.cs" />
     <Compile Include="Assets\Mapbox\Unity\DataContainers\TileJsonData.cs" />
     <Compile Include="Assets\Scripts\UI\UI_SpellItem.cs" />
     <Compile Include="Assets\Mapbox\Unity\MeshGeneration\Modifiers\IReplaceable.cs" />

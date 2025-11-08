@@ -56,6 +56,7 @@ namespace DevelopersHub.ClashOfWhatecer
 
         private void Update()
         {
+            
             AdjustUI();
         }
 

@@ -54,6 +54,10 @@ namespace DevelopersHub.ClashOfWhatecer
             }
         }
 
+
+
+
+
         private void Start()
         {
             _closeButton.onClick.AddListener(Close);
