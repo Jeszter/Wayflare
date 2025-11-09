@@ -936,6 +936,43 @@ namespace DevelopersHub.RealtimeNetworking.Server
             collecting = false;
         }
 
+        public async static void CollectMapResources(int id, int gold, int elixir, int gems)
+        {
+            long account_id = Server.clients[id].account;
+            await CollectMapResourcesAsync(account_id, id, gold, elixir, gems);
+        }
+
+        private async static Task<bool> CollectMapResourcesAsync(long account_id, int clientID, int gold, int elixir, int gems)
+        {
+            Task<bool> task = Task.Run(() =>
+            {
+                return Retry.Do(() => _CollectMapResources(account_id, clientID, gold, elixir, gems), TimeSpan.FromSeconds(0.1), 1, false);
+            });
+            return await task;
+        }
+
+        private static bool _CollectMapResources(long account_id, int clientID, int gold, int elixir, int gems)
+        {
+            using (MySqlConnection connection = GetMysqlConnection())
+            {
+                // кладём в хранилища: gold, elixir, НО darkElixir = 0 (ты просил без тёмного)
+                // метод вернёт, сколько реально влезло
+                var added = AddResources(connection, account_id, gold, elixir, 0, gems);
+                connection.Close();
+
+                // отправим клиенту, что именно зачислилось
+                // у нас уже есть в Terminal.RequestsID.MAPCOLLECT = 40
+                Packet packet = new Packet();
+                packet.Write((int)Terminal.RequestsID.MAPCOLLECT);
+                packet.Write(added.Item1); // реально добавленное золото
+                packet.Write(added.Item2); // реально добавленный эликсир
+                packet.Write(gems);        // гемы у тебя в AddResources всегда зачисляются полностью
+                Sender.TCP_Send(clientID, packet);
+            }
+            return true;
+        }
+
+
         private async static Task<bool> UpdateCollectabesAsync(double deltaTime)
         {
             Task<bool> task = Task.Run(() =>

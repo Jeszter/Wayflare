@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\egoro\\Downloads\\Wayflare\\Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|c:\\users\\egoro\\downloads\\wayflare\\server\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|c:\\users\\egoro\\downloads\\wayflare\\server\\scripts\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE59CF5B-8A0B-4C7E-9BF9-AB1266BC9D6A}|Realtime Networking Server.csproj|solutionrelative:scripts\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "C:\\Users\\egoro\\Downloads\\Wayflare\\Server\\Terminal.cs",
+              "RelativeDocumentMoniker": "Terminal.cs",
+              "ToolTip": "C:\\Users\\egoro\\Downloads\\Wayflare\\Server\\Terminal.cs",
+              "RelativeToolTip": "Terminal.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAiwHsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:18:39.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\egoro\\Downloads\\Wayflare\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -34,24 +51,25 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAcwCoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T17:26:16.847Z"
+              "WhenOpened": "2025-10-23T17:26:16.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\egoro\\Downloads\\Wayflare\\Server\\Scripts\\Database.cs",
               "RelativeDocumentMoniker": "Scripts\\Database.cs",
               "ToolTip": "C:\\Users\\egoro\\Downloads\\Wayflare\\Server\\Scripts\\Database.cs",
               "RelativeToolTip": "Scripts\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwM0DAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T17:22:18.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\egoro\\Downloads\\Wayflare\\Server\\Data.cs",
               "RelativeDocumentMoniker": "Data.cs",
