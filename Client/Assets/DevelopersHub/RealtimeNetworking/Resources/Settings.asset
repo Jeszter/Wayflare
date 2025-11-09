@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bf953d67a0f1464197895d6ba33d04c, type: 3}
   m_Name: Settings
   m_EditorClassIdentifier: 
-  _ip: 192.168.0.213
+  _ip: 10.10.216.175
   _port: 5555

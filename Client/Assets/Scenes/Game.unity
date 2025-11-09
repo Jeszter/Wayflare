@@ -2379,7 +2379,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Mapbox.Examples.SpawnOnMap
   _map: {fileID: 1406912194}
   _locationStrings:
-  - 48.7311414658483, 21.244084072973723
+  - 48.731316304935405, 21.24508331307594
   _spawnScale: 5
   _markerPrefab: {fileID: 4906059035958804546, guid: 51527fa47aee86c4986e1f1f45600fee, type: 3}
   parent: {fileID: 0}
@@ -5042,8 +5042,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1220223453}
-        m_TargetAssemblyTypeName: UI_GPSMap, Assembly-CSharp
+      - m_Target: {fileID: 1220133069}
+        m_TargetAssemblyTypeName: DevelopersHub.ClashOfWhatecer.UI_Main, Assembly-CSharp
         m_MethodName: CloseButtonClick
         m_Mode: 1
         m_Arguments:
@@ -12698,8 +12698,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1220223453}
-        m_TargetAssemblyTypeName: UI_GPSMap, Assembly-CSharp
+      - m_Target: {fileID: 1220133069}
+        m_TargetAssemblyTypeName: DevelopersHub.ClashOfWhatecer.UI_Main, Assembly-CSharp
         m_MethodName: JoinButtonClick
         m_Mode: 1
         m_Arguments:
@@ -19141,8 +19141,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1220223453}
-        m_TargetAssemblyTypeName: UI_GPSMap, Assembly-CSharp
+      - m_Target: {fileID: 1220133069}
+        m_TargetAssemblyTypeName: DevelopersHub.ClashOfWhatecer.UI_Main, Assembly-CSharp
         m_MethodName: CloseButtonClick
         m_Mode: 1
         m_Arguments:
@@ -27921,7 +27921,6 @@ MonoBehaviour:
   _closeButton: {fileID: 1965769242}
   reqGold: {fileID: 1333094999}
   reqElixir: {fileID: 1297693560}
-  reqDark: {fileID: 759938201}
   reqGems: {fileID: 572073687}
   reqTime: {fileID: 1847432816}
   _upgradeButton: {fileID: 1568121002}

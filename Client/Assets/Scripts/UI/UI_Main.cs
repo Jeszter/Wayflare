@@ -187,7 +187,8 @@ namespace DevelopersHub.ClashOfWhatecer
         public void DisplayInRangeEvent(int id)
         {
             if (!active)
-            {
+            {   
+                Debug.Log("Displaying in-range event for ID: " + id);
                 tempEvent = id;
                 inRange.SetActive(true);
                 active = true;
@@ -204,8 +205,11 @@ namespace DevelopersHub.ClashOfWhatecer
         }
         
         public void JoinButtonClick()
-        {
+        {   
+            Debug.Log("Joining Event: " + tempEvent);
             eventManager.ActivateEvent(tempEvent);
+            active = false;
+            inRange.SetActive(false);
         }
 
         public void CloseButtonClick()

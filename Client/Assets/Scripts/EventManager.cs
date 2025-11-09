@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using DevelopersHub.ClashOfWhatecer;   // <-- нужно, чтобы видеть класс Player
+using DevelopersHub.ClashOfWhatecer;
+using DevelopersHub.RealtimeNetworking.Client;   // <-- пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ Player
 
 public class EventManager : MonoBehaviour
 {
@@ -14,41 +15,55 @@ public class EventManager : MonoBehaviour
 
     }
 
-    public void ActivateEvent(int eventId)
+public void ActivateEvent(int eventId)
+{
+    Debug.Log($"ActivateEvent: {eventId}");
+
+    switch (eventId)
     {
-        Debug.Log($"ActivateEvent: {eventId}");
+        case 0: // WOOD (no iron, 100 wood)
+            if (Player.instanse != null)
+            {
+                Player.instanse.SendMapResources(0, 100, 0);
+                Debug.Log("Resources received from the map: 0 iron, 100 wood, 0 gold");
+            }
+            else
+            {
+                Debug.LogWarning("Player instance is null вЂ” failed to send resources!");
+            }
+            break;
 
-        switch (eventId)
-        {
-            case 0: // WOOD (даём 0 золота, 100 эликсира)
-                if (Player.instanse != null)
-                {
-                    Player.instanse.SendMapResources(0, 100, 0);
-                    Debug.Log("Отправлено на сервер: 0 золота, 100 эликсира, 0 гемов");
-                }
-                else
-                {
-                    Debug.LogWarning("Player instance is null — сервер не получит ресурсы!");
-                }
-                break;
+        case 1: // IRON (100 iron, no wood)
+            if (Player.instanse != null)
+            {
+                Player.instanse.SendMapResources(100, 0, 0);
+                Debug.Log("Resources received from the map: 100 iron, 0 wood, 0 gold");
+            }
+            else
+            {
+                Debug.LogWarning("Player instance is null вЂ” failed to send resources!");
+            }
+            break;
 
-            case 1: // IRON (даём 100 золота, 0 эликсира)
-                if (Player.instanse != null)
-                {
-                    Player.instanse.SendMapResources(100, 0, 0);
-                    Debug.Log("Отправлено на сервер: 100 золота, 0 эликсира, 0 гемов");
-                }
-                else
-                {
-                    Debug.LogWarning("Player instance is null — сервер не получит ресурсы!");
-                }
-                // после отправки возвращаемся на базу
-                SceneManager.LoadScene("Start");
-                break;
+        case 2:
+            Debug.Log("Loading Castle Scene...");
+            if (Player.instanse != null)
+            {
+                Debug.Log("Player instance found, sending packet to load Castle scene.");
+                Packet packet = new Packet();
+                packet.Write((int)Player.RequestsID.BATTLEFIND);
+                Sender.TCP_Send(packet);
+            }
+            else
+            {
+                Debug.LogWarning("Player instance is null вЂ” failed to send load request!");
+            }
+            break;
 
-            default:
-                Debug.LogWarning("Неизвестный eventId");
-                break;
-        }
+        default:
+            Debug.LogWarning("Unknown eventId");
+            break;
     }
+}
+
 }

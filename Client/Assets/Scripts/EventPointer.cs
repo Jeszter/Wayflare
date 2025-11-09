@@ -44,7 +44,9 @@ public class EventPointer : MonoBehaviour
     }
 
     private void OnMouseDown()
-    {
+    {   
+
+        Debug.Log(resourseID);
         playerLocation = GameObject.Find("Canvas").GetComponent<LocationStatus>();
         var currPlayerLocation = new GeoCoordinatePortable.GeoCoordinate(playerLocation.GetLocationLat(), playerLocation.GetLocationLon());
         var eventLocation = new GeoCoordinatePortable.GeoCoordinate(eventPos[0], eventPos[1]);
