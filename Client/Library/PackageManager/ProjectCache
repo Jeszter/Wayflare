@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638982738415916888
+      ticks: 638982801190181446
     m_Hash: 3718994960
   m_LockFileStatus:
     m_FilePath: C:/Users/egoro/Downloads/Wayflare/Client/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638982738415926869
+      ticks: 638982801190181446
     m_Hash: 2600992244
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}

@@ -203,6 +203,13 @@ namespace DevelopersHub.ClashOfWhatecer
                         }
                         break;
 
+                    case RequestsID.PREUPGRADE:
+                        databaseID = packet.ReadLong();
+                        string dataString = packet.ReadString();
+                        Data.ServerBuilding sb = Data.Desrialize<Data.ServerBuilding>(dataString);
+                        UI_BuildingUpgrade.instanse.Open(sb, databaseID);
+                        break;
+
                     case RequestsID.UPGRADE:
                         response = packet.ReadInt();
                         switch (response)
