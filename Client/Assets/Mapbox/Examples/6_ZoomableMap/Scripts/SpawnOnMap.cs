@@ -41,6 +41,7 @@
 				instance.transform.localPosition = _map.GeoToWorldPosition(_locations[i], true);
 				instance.transform.localScale = new Vector3(_spawnScale, _spawnScale, _spawnScale);
 				instance.transform.parent = parent.transform;
+				instance.GetComponent<EventPointer>().body = instance;
 				_spawnedObjects.Add(instance);
 			}
 		}
@@ -52,9 +53,12 @@
 			{
 				var spawnedObject = _spawnedObjects[i];
 				var location = _locations[i];
-				spawnedObject.GetComponent<EventPointer>().eventPos = location;
-				spawnedObject.transform.localPosition = _map.GeoToWorldPosition(location, true);
-				spawnedObject.transform.localScale = new Vector3(_spawnScale, _spawnScale, _spawnScale);
+				if (spawnedObject != null && location != null){
+					spawnedObject.GetComponent<EventPointer>().eventPos = location;
+					spawnedObject.transform.localPosition = _map.GeoToWorldPosition(location, true);
+					spawnedObject.transform.localScale = new Vector3(_spawnScale, _spawnScale, _spawnScale);
+				}
+
 			}
 		}
 	}

@@ -15,6 +15,8 @@ public class EventPointer : MonoBehaviour
     LocationStatus playerLocation;
     public Vector2d eventPos;
 
+    public GameObject body;
+
 
     UI_Main ui;
 
@@ -44,7 +46,7 @@ public class EventPointer : MonoBehaviour
     }
 
     private void OnMouseDown()
-    {   
+    {
 
         Debug.Log(resourseID);
         playerLocation = GameObject.Find("Canvas").GetComponent<LocationStatus>();
@@ -56,12 +58,16 @@ public class EventPointer : MonoBehaviour
         // Debug.Log("Distance " + distance);
         if (distance < 150)
         {
-            ui.DisplayInRangeEvent((int) resourseID);
+            ui.DisplayInRangeEvent(body);
         }
         else
         {
             ui.DisplayNotInRange();
         }
+    }
+    public ResourceID GetResourceID()
+    {
+        return resourseID;
     }
 }
 

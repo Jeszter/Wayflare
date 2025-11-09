@@ -43,7 +43,7 @@ namespace DevelopersHub.ClashOfWhatecer
         [SerializeField] GameObject inRange;
         [SerializeField] GameObject notInRange;
         bool active = false;
-        int tempEvent;
+        GameObject tempEvent;
 
         [SerializeField] LocationStatus canva;
         [SerializeField] EventManager eventManager;
@@ -184,12 +184,12 @@ namespace DevelopersHub.ClashOfWhatecer
                 }
             }
         }
-        public void DisplayInRangeEvent(int id)
+        public void DisplayInRangeEvent(GameObject pointer)
         {
             if (!active)
             {   
-                Debug.Log("Displaying in-range event for ID: " + id);
-                tempEvent = id;
+                Debug.Log("Displaying in-range event for ID: " + pointer.GetComponent<EventPointer>().GetResourceID());
+                tempEvent = pointer;
                 inRange.SetActive(true);
                 active = true;
             }
@@ -205,11 +205,12 @@ namespace DevelopersHub.ClashOfWhatecer
         }
         
         public void JoinButtonClick()
-        {   
+        {
             Debug.Log("Joining Event: " + tempEvent);
-            eventManager.ActivateEvent(tempEvent);
+            eventManager.ActivateEvent((int) tempEvent.GetComponent<EventPointer>().GetResourceID());
             active = false;
             inRange.SetActive(false);
+            tempEvent.Destroy();
         }
 
         public void CloseButtonClick()
